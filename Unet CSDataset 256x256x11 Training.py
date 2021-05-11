@@ -117,8 +117,8 @@ model.load_weights('checkpoints\\256x256x1-BestWeightsCSDGenerator.hdf5')
 idListTest = os.listdir(r'cityscapesdataset\csdataset\test_images\img')
 
 test_generator = cdg(idListTest, batch_size=32,size_x=SIZE_X, size_y=SIZE_Y, n_channels=N_CHANNEL, n_classes=N_CLASSES, shuffle=True, 
-                         path_images='cityscapesdataset\\csdataset\\test_images\img\\',
-                         path_masks='cityscapesdataset\\csdataset\\test_masks\img\\')
+                         path_images='cityscapesdataset\\csdataset\\test_images\\img\\',
+                         path_masks='cityscapesdataset\\csdataset\\test_masks\\img\\')
 
 
 model.evaluate(test_generator, verbose=1)

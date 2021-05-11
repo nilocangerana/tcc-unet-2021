@@ -10,3 +10,8 @@
 **Unet CSDataset 256x256x11 Video Process-V2.ipynb :** jupyter notebook com a aplicação de processamento de video.
 
 ## Videos de Exemplo:
+[Video 1](https://www.youtube.com/watch?v=bQq8nFK3Wb8)
+
+[Video 2](https://www.youtube.com/watch?v=TQoAD9n2gC4)
+
+[Video 3](https://www.youtube.com/watch?v=rxYawyj7Am0)

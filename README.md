@@ -10,6 +10,12 @@
 **Unet CSDataset 256x256x11 Video Process-V2.ipynb :** jupyter notebook com a aplicação de processamento de video.
 
 ## Videos de Exemplo:
+
+Legenda da segmentação semântica dos videos:
+Tons de Azul: Veículos de quatro rodas
+Tons de Verde: Veículos de duas rodas
+Vermelho: Pessoas
+
 [Video 1](https://www.youtube.com/watch?v=bQq8nFK3Wb8)
 
 [Video 2](https://www.youtube.com/watch?v=TQoAD9n2gC4)

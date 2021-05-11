@@ -12,8 +12,11 @@
 ## Videos de Exemplo:
 
 Legenda da segmentação semântica dos videos:
+
 Tons de Azul: Veículos de quatro rodas
+
 Tons de Verde: Veículos de duas rodas
+
 Vermelho: Pessoas
 
 [Video 1](https://www.youtube.com/watch?v=bQq8nFK3Wb8)

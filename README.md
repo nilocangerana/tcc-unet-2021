@@ -1,5 +1,8 @@
 # tcc-unet-2021
 
+# Versão final, pasta v2
+
+# OLD
 ## Arquivos:
 **CustomDataGeneratorV2.py :** Gerador de lotes(batches) para treinamento dinamicamente.
 

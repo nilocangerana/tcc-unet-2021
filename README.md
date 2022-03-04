@@ -2,6 +2,12 @@
 
 # Versão final, pasta v2
 
+[Video 1](https://drive.google.com/file/d/1pxUecrIO1nPLEQaQvvEjVcoJ_7ngmHtb/view?usp=sharing)
+
+[Video 2](https://drive.google.com/file/d/1hJbKmk7Nu7QGQ0QT6GnN43OldEXCFB4R/view?usp=sharing)
+
+[Video 3](https://drive.google.com/file/d/19DJl48HvTUovQpZtA1cW6wvRFdd3HSq5/view?usp=sharing)
+
 # OLD
 ## Arquivos:
 **CustomDataGeneratorV2.py :** Gerador de lotes(batches) para treinamento dinamicamente.
